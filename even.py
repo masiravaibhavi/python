@@ -1,4 +1,5 @@
- a=int(input("enter the number:"))
+ a=int(input("enter first number:"))
+ b=int(input("enter second number:"))
  if(a%2==0):
    print("the number is even:") 
  else:
